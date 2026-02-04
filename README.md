@@ -1,7 +1,7 @@
 <!-- Flashy GitHub Profile README -->
 
-<h1 align="center">✨ Hi there, I'm <a href="https://github.com/ChaLconner">Chalunton Vipusanapas</a> ✨</h1>
-<h3 align="center">🚀 Junior Full Stack Developer | 💡 Lifelong Learner</h3>
+<h1 align="center">Hi there, I'm <a href="https://github.com/ChaLconner">Chalunton Vipusanapas</a> ✨</h1>
+<h3 align="center">Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Frontend+%E2%9A%A1+Backend+%F0%9F%94%A7+Database;Always+Learning+New+Technologies;Building+Scalable+Web+Applications" alt="Typing Animation" />
